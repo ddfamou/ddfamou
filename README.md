@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Mengfan Shan.
 - 👀 I’m interested in BigData Platform on public cloud.
-- 🌱 I’m currently learning DataLake, etc.
 - 📫 Please reach me by dd.famous@gmail.com.
